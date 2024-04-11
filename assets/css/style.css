@@ -519,3 +519,29 @@ a {
 .blog-item__learnmore:hover {
   color: #2e80ce;
 }
+/* -------------------------------Appointment Unit-------------------- */
+.appointment {
+  margin: 85px 0;
+}
+.appointment__inner {
+  padding: 100px 178px;
+  text-align: center;
+  background: #f6fbff;
+}
+.appointment__heading::affter {
+  content: "";
+  display: block;
+  width: 136px;
+  height: 2px;
+  background: #2e80ce;
+  margin: 18px auto 0;
+}
+.appointment__desc {
+  margin: 18px auto 0;
+  display: inline-block;
+  max-width: 617px;
+}
+
+.appointment__btn {
+  margin-top: 38px;
+}
