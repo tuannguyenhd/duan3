@@ -114,7 +114,13 @@
     width: 90%;
     text-align: start;
   }
-  /* work list */
+  /* khoi work */
+  .section-heading {
+    padding-left: 30px;
+  }
+  .work__desc {
+    padding-left: 30px;
+  }
   .work__list {
     grid-template-columns: 1fr;
     row-gap: 30px;
